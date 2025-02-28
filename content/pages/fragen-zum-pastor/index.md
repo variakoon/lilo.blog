@@ -1,6 +1,6 @@
 +++
 title = "Fragen zum Pastor"
-draft = false
+draft = true
 image = "reportage-picture.jpg"
 description = "questions to daniel kallen, pastor from interlaken"
 footnotes = "<!--StartFragment-->\n\n![](https://files.wbk.kreativmedia.ch/71/4e/714e1e63-3cff-42db-92d1-499d92468631.jpg)\n\n<!--EndFragment-->"
