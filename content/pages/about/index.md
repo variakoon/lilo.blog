@@ -1,13 +1,13 @@
 +++
 title = "About me"
-draft = false
+draft = true
+image = ""
 description = ""
-image = "/img/default-author.jpg"
 +++
-![](/img/default-author.jpg)
+![]()
 
-## My Name
+## Varia Kondrashova
 
-mail@example.org
+infinite8ara@gmail.com
 
-Here should be some info about me...
+Ich bin eine Studentin aus 2b
