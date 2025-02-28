@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = "/media/reportage-picture.jpg"
-logo = ""
+logo = "/media/reportage-picture.jpg"
 image = "/media/reportage-picture.jpg"
-color = "#5a4ae3"
+color = "#ffe4e1"
 +++
