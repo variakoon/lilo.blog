@@ -1,6 +1,7 @@
 +++
 title = "Fragen zum Pastor"
 draft = false
+image = "reportage-picture.jpg"
 description = "questions to daniel kallen, pastor from interlaken"
 +++
 <!--StartFragment-->
