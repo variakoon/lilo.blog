@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = "/img/default-author.jpg"
+name = "Varia Kondrashova"
+image = "/media/reportage-picture.jpg"
 url = "/about/"
 +++
