@@ -1,126 +1,20 @@
 +++
 title = "Fragen zum Pastor"
-draft = true
+draft = false
 image = "nature-landscape_h5ufacza7s.jpg"
 description = "questions to daniel kallen, pastor from interlaken"
 footnotes = "<!--StartFragment-->\n\n![](https://files.wbk.kreativmedia.ch/71/4e/714e1e63-3cff-42db-92d1-499d92468631.jpg)\n\n<!--EndFragment-->"
 +++
 <!--StartFragment-->
 
-{{<lead>}}
-<!--StartFragment-->
-
 ```
 {{<lead>}}
+
 Identität ist eine Sammlung von Werten, inneren Prioritäten, Zielen und Vorlieben eines Individuums. Was oft übersehen wird, sind religiöse Überzeugungen oder eine Beziehung zum Glauben im Allgemeinen. Was macht einen Menschen hoffnungsvoll? Daniel Kallen, ein Pastor, beantwortete gerne meine Fragen zu seinen Überzeugungen und Entscheidungen im Leben, bei denen er seinen Glauben gewählt hat.
+
 {{</lead>}}
-```
-
-<!--EndFragment-->
-{{</lead>}}
-
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
-
-# Überschrift 1
-
-So sieht die grösste Überschrift aus (H1).
-
-## Überschrift 2
-
-Dies ist die Überschrift 2 (H2).
-
-### Überschrift 3
-
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
-
-#### Überschrift 4
-
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
-
-## Weitere Textformatierungen
-
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
-
-### Fett und Kursiv
-
-Natürlich gibt es auch **fett** und *kursiv*.
-
-### Links
-
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
-
-### Zitate
-
-> «Zitate können hervorgehoben werden.»
->
-> *Autor mit [Link zur Quelle](https://www.lilo.blog)*
-
-Die Quellenangabe muss *kursiv* geschrieben werden, damit sie als Fusszeile erkannt wird.
-
-### Liste
-
-So sieht eine Liste aus:
-
-* Nam de isto magna dissensio est.
-* Mihi, inquam, qui te id ipsum rogavi?
-* Haec et tu ita posuisti, et verba vestra sunt.
-* Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-### Nummerierte Liste
-
-Und so eine nummerierte Liste:
-
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-## Bilder
-
-Bilder werden mit dem `+`-Symbol eingefügt.
-
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
-
-**Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
-
-### Tipps zu Bildgrössen
-
-Ein Richtwert für Bilder ist, dass diese wenn möglich nicht grösser als `400kb` sein sollten. Man kann sie so verkleinern, dass die Breite höchstens `1200px` gross ist. Dies ist für die meisten Bildschirme mehr als genug.
-
-### Bildunterschrift
-
-Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bildunterschrift im Artikel angezeigt.
-
-## Horizontale Linie
-
-Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
-
-- - -
-
-## Lead
-
-{{<lead>}}
-Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
-{{</lead>}}
-
-`{{</*lead*/>}}`\
-Ein Lead steht zwischen zwei solchen Blöcken.\
-`{{</*/lead*/>}}`
-
-## Kasten
 
 {{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
-
-`{{</*box*/>}}`\
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.\
-`{{</*/box*/>}}`
-
-{{<box title="Ausklappbare Box">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
-Dies eignet sich auch für längere Inhalte.
 
 1.Können Sie mir von Ihrem Weg zum Pastor erzählen? Gab es einen bestimmten Moment, der Sie auf diesen Weg gebracht hat? 
 
@@ -166,6 +60,11 @@ Dies eignet sich auch für längere Inhalte.
 
 10.Was, hoffen Sie, werden die Leute als das wichtigste Beispiel von Ihnen als Pastor und als Mensch in Erinnerung behalten? 
 
-> Ich weiss es nicht. Für mich ist es nicht so wichtig, wie ich Erinnerung bleiben werde oder vielleicht auch nicht. Viel wichtiger ist für mich, dass ich einmal gelebt habe und meinen eigenen Weg gegangen bin – ehrlich, aufrichtig und authentisch. Dass ich ein Teil von diesem geheimnisvollen kosmischen Lebensbogen wurde. Und wer weiss, vielleicht habe ich ja mit meinem Leben auch andere Menschen und Kreaturen für einen Moment glücklich gemacht. Dann hatte mein Leben Sinn.   
+> Ich weiss es nicht. Für mich ist es nicht so wichtig, wie ich Erinnerung bleiben werde oder vielleicht auch nicht. Viel wichtiger ist für mich, dass ich einmal gelebt habe und meinen eigenen Weg gegangen bin – ehrlich, aufrichtig und authentisch. Dass ich ein Teil von diesem geheimnisvollen kosmischen Lebensbogen wurde. Und wer weiss, vielleicht habe ich ja mit meinem Leben auch andere Menschen und Kreaturen für einen Moment glücklich gemacht. Dann hatte mein Leben Sinn.
+
+{{</box>}}
+
+
+```
 
 <!--EndFragment-->
